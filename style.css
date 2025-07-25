@@ -223,7 +223,12 @@ footer {
   text-decoration: underline;
 }
 
-
+.footer-bottom {
+  background-color: #20e2ad;
+  text-align: center;
+  color:black;
+  height: 70px;
+}
 
 .footer-section button {
   background-color: #20e2ad;
